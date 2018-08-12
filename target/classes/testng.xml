@@ -3,7 +3,7 @@
 <suite name="CRMPractice">
   <test name="FREE CRM Test Cases">
     <classes>
-      <class name="com.crm.qa.testcases.HomePageTest"/>
+      <class name="com.crm.qa.testcases.googleTest"/>
       
     </classes>
   </test> <!-- Test -->
